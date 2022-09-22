@@ -82,7 +82,7 @@ button:active{
     font-size: 1.5rem;
 }
 
-.loader {
+#loader {
     border: 16px solid #f3f3f3;
     border-top: 16px solid #333;
     border-radius: 50%;
