@@ -1,4 +1,9 @@
 
+## Navigation
+- [Live Demo](https://devmuzaky.github.io/QuotesGenerator/)
+
+
+
 # Quote Generator
 
 A motivational quote generator using JavaScript and RESTful API
@@ -23,11 +28,11 @@ A motivational quote generator using JavaScript and RESTful API
 ## New Quote Generator
 - Allows the user to refresh the quote from a plethora of different quotes stored locally.
 - If the API is down it will use a handful of quotes from the local storage.
-## Demo
-[Demo](https://devmuzaky.github.io/QuotesGenerator/)
+## Screenshots
 
-
-
+![App Screenshot](https://i.pinimg.com/originals/9b/c0/0c/9bc00c98b6e27c880eca3847da30e134.jpg)
+# - Once you click at Twitter Button:
+![App Screenshot](https://i.pinimg.com/originals/1b/2c/02/1b2c02a0748215634f13f25a6bb61b5f.jpg)
 ## Author
 
 - [@devmuzaky](https://github.com/devmuzaky)
