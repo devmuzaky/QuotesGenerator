@@ -6,30 +6,31 @@
     <link rel="icon" type="image/png" href="https://www.google.com/s2/u/0/favicons?domain=jacinto.design">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
-    <script src="script.js" defer></script>
+
 </head>
 <body>
 <div class="quote-container" id="quote-container">
     <!--    Quote    -->
     <div class="quote-text">
         <i class="fas fa-quote-left"></i>
-        <span id="quote">The greatest glory in living lies not in never falling, but in rising every time we fall.</span>
+        <span id="quote"></span>
     </div>
     <!--    Author-->
     <div class="quote-author">
-        <span id="author">Nelson Mandela</span>
+        <span id="author"></span>
     </div>
     <!--  Buttons  -->
-    <div class="btn-container" >
+    <div class="btn-container">
         <button class="twitter-btn" id="twitter" title="Tweet This!">
-            <i class="fab fa-twitter" ></i>
+            <i class="fab fa-twitter"></i>
         </button>
 
-        <button id="new-quote" >New Quote</button>
+        <button id="new-quote">New Quote</button>
     </div>
-
-
 </div>
-
+<!--Loader-->
+<div class="loader"></div>
+<script src="quotes.js" defer></script>
+<script src="script.js" defer></script>
 </body>
 </html>
